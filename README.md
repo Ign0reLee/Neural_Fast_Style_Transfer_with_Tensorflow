@@ -37,9 +37,9 @@ numpy = 1.16.1
 
 3. Modify some code in train.py and train_ori.py
 
-  3.1.train.py : line 13 ~ 16
+  3.1. train.py : line 13 ~ 16
 
-  3.2.train_ori.py : line 13 ~ 16
+  3.2. train_ori.py : line 13 ~ 16
 
 ## Result Example
 
