@@ -45,11 +45,11 @@ numpy = 1.16.1
 
 Result of train.py running 1epoch with all data
 
-<img width="224" height="224">
+<img src="./images/content/chicago.jpg" width="224" height="224"> </img>
 ![Content1](./images/content/chicago.jpg)
 ![Test1](./example/starry_night_crop.jpg_82782.jpg){: width="30%" height="30%"}
 ![Style1](./images/styles/starry_night_crop.jpg){: width="30%" height="30%"}
-</img>
+
 Result of train_ori.py running 1epoch and 18500step with all data
 
 
