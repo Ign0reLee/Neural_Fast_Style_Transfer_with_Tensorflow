@@ -53,7 +53,7 @@ Result of train_ori.py running 1epoch and 18500step with all data
 
 <img src="./images/content/brad_pitt.jpg" width="224" height="224"> </img>
 <img src="./example/composition_vii.jpg_1_18500.jpg" width="224" height="224"> </img>
-<img src="./images/styles/styles/composition_vii.jpg" width="224" height="224"> </img>
+<img src="./images/styles/composition_vii.jpg" width="224" height="224"> </img>
 
 ## Differences from the original
 
