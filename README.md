@@ -40,6 +40,8 @@ numpy = 1.16.1
   3.1. train.py : line 13 ~ 16
 
   3.2. train_ori.py : line 13 ~ 16
+  
+4. Run train.py or train_ori.py
 
 ## Result Example
 
