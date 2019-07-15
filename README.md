@@ -44,9 +44,13 @@ numpy = 1.16.1
 ## Result Example
 
 Result of train.py running 1epoch with all data
+
+
 ![Test1](./example/starry_night_crop.jpg_82782.jpg)
 
 Result of train_ori.py running 1epoch and 18500step with all data
+
+
 ![Test2](./example/composition_vii.jpg_1_18500.jpg)
 
 ## Differences from the original
