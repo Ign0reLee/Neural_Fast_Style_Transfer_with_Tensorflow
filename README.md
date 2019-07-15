@@ -16,7 +16,7 @@ https://github.com/antlerros/tensorflow-fast-neuralstyle
 https://github.com/machrisaa/tensorflow-vgg
 
 ## Reference site
-train.py 와 train_ori.py의 몇가지 코드를 수정하십시오
+
 http://cocodataset.org/#home
 
 ## Environment
