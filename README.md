@@ -45,7 +45,7 @@ numpy = 1.16.1
 
 Result of train.py running 1epoch with all data
 
-![Content1](./images/content/chicago.jpg =224*224)
+![Content1](./images/content/chicago.jpg | width=224, height=224)
 ![Test1](./example/starry_night_crop.jpg_82782.jpg){: width="30%" height="30%"}
 ![Style1](./images/styles/starry_night_crop.jpg){: width="30%" height="30%"}
 
