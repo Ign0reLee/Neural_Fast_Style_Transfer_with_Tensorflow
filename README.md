@@ -68,6 +68,6 @@ Feature Loss calculate with 4 layers
 
 ## What differences of two code
 
-train_ori.py is the code you created like the original thesis. But I have not yet find an example of the original thesis so, I couldn'g check the exact same 
+train_ori.py is the code you created like the original thesis. But I have not yet find an example of the original thesis so, I couldn't check the exact same 
 
 train.py is the code that recreates the above reference code in its own way using layers of tensorflow.
