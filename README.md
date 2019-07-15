@@ -46,18 +46,14 @@ numpy = 1.16.1
 Result of train.py running 1epoch with all data
 
 <img src="./images/content/chicago.jpg" width="224" height="224"> </img>
-![Content1](./images/content/chicago.jpg)
-![Test1](./example/starry_night_crop.jpg_82782.jpg){: width="30%" height="30%"}
-![Style1](./images/styles/starry_night_crop.jpg){: width="30%" height="30%"}
+<img src="./example/starry_night_crop.jpg_82782.jpg" width="224" height="224"> </img>
+<img src="./images/styles/starry_night_crop.jpg" width="224" height="224"> </img>
 
 Result of train_ori.py running 1epoch and 18500step with all data
 
-
-![Content2](./images/content/brad_pitt.jpg){: width="30%" height="30%"}
-![Test2](./example/composition_vii.jpg_1_18500.jpg){: width="30%" height="30%"}
-![Style2](./images/styles/composition_vii.jpg){: width="30%" height="30%"}
-
-
+<img src="./images/content/brad_pitt.jpg" width="224" height="224"> </img>
+<img src="./example/composition_vii.jpg_1_18500.jpg" width="224" height="224"> </img>
+<img src="./images/styles/styles/composition_vii.jpg" width="224" height="224"> </img>
 
 ## Differences from the original
 
