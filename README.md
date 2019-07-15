@@ -15,36 +15,6 @@ https://github.com/antlerros/tensorflow-fast-neuralstyle
 
 https://github.com/machrisaa/tensorflow-vgg
 
-## Environment
-
-python = 3.6.8
-
-tensorflow =1.13.1
-
-opencv-python=3.4.2
-
-numpy = 1.16.1
-
-## How To Use It?
-
-1. Go to tensorflow-vgg git, and make sure them run
-# Neural_Fast_Style_Transfer_with_Tensorflow
-For studying Neural Style Transfer
-
-## Original papers
-
-https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
-
-## Original code
-
-https://github.com/jcjohnson/fast-neural-style
-
-## Reference code
-
-https://github.com/antlerros/tensorflow-fast-neuralstyle
-
-https://github.com/machrisaa/tensorflow-vgg
-
 ## Reference site
 train.py 와 train_ori.py의 몇가지 코드를 수정하십시오
 http://cocodataset.org/#home
