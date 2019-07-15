@@ -45,13 +45,18 @@ numpy = 1.16.1
 
 Result of train.py running 1epoch with all data
 
-
+![Content1](./images/content/chicago.jpg)<Content>
 ![Test1](./example/starry_night_crop.jpg_82782.jpg)
+![Style1](./example/starry_night_crop.jpg_82782.jpg)<Style>
 
 Result of train_ori.py running 1epoch and 18500step with all data
 
 
+![Content2](./images/content/brad_pitt.jpg)<Content>
 ![Test2](./example/composition_vii.jpg_1_18500.jpg)
+![Style2](./images/styles/starry_night_crop.jpg)<Style>
+
+
 
 ## Differences from the original
 
