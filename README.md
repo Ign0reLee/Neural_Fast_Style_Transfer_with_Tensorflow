@@ -36,7 +36,9 @@ numpy = 1.16.1
 2. Go to Ms-COCO Web Site and download COCO-Dataset 2014(because of use to training)
 
 3. Modify some code in train.py and train_ori.py
+
 train.py : line 13 ~ 16
+
 train_ori.py : line 13 ~ 16
 
 ## Result Example
